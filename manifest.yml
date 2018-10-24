@@ -1,0 +1,5 @@
+---
+applications:
+  - name: mock-forseti
+    buildpack: java_buildpack
+    path: target/mock-forseti-1.0-SNAPSHOT.jar
